@@ -1,0 +1,10 @@
+int a=2;
+/**这是一个段注释
+*/
+int count=0;
+do{
+	count++;
+	if(count==0) break;
+	count--;
+}while(--a>0);
+a=count;

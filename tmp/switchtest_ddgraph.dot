@@ -1,0 +1,11 @@
+digraph G_DD {
+A [label="A"];
+B [label="B"];
+C [label="C"];
+D [label="D"];
+E [label="E"];
+F [label="F"];
+G [label="G"];
+H [label="H"];
+I [label="I"];
+A -> B;B -> C;C -> D;D -> E;E -> F;C -> G;G -> E;B -> H;H -> F;B -> I;I -> F;}

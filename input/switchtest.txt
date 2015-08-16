@@ -1,0 +1,17 @@
+int a = 1;
+switch(a){
+case 1:
+	if(a==1)
+	{
+		a=1;
+	}else{
+		a=2;
+	}
+	break;
+case 2:
+	a=3;
+	break;
+default :
+	a=4;
+}
+int c=1;

@@ -1,0 +1,4 @@
+digraph G_DD {
+A [label="A"];
+B [label="B"];
+A -> B;}
